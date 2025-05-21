@@ -1,5 +1,5 @@
 //============================================================================
-// Name        : main.cpp
+// Name        : helloWorld.cpp
 // Author      : Daniel Benyei
 // Version     :
 // Copyright   : Your copyright notice
@@ -7,10 +7,10 @@
 //============================================================================
 
 #include <iostream>
-//using namespace std;
+using namespace std;
 
 int main() {
-	std::cout << "!!!Hello World!!!" << std::endl; // prints !!!Hello World!!!
-	std::cout << "asdasdasd";
+	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
+	cout<<"asd";
 	return 0;
 }
